@@ -134,4 +134,14 @@
     text-decoration: none;
     border: 0;
     font-size: 1.1em;
+    margin-bottom: 2vh;
+}
+#footer {
+    text-align: center;
+  padding: 19px;
+  background: #c5ded7;
+  color: white;
+}
+#p-tag {
+    color: #45b29a;
 }
