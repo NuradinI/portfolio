@@ -82,10 +82,56 @@
     color: #45b29a;
     font-family: 'Darker Grotesque', sans-serif;
 }
+#back {
+    color: #45b29a;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+#backend {
+    height: 100px;
+    padding-right: 25vw;
+}
+#python {
+    height: 100px;
+}
+#backend-p {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
 #vue-p{
     padding-right: 10px;
     padding-left: 10px;
     font-size: 1.2em;
     line-height: 1.7;
     color: #545454;
+}
+#section-four {
+    text-align: center;
+}
+#opps {
+    font-size: 2em;
+    color: #1e836c;
+}
+#currently {
+    color: #45b29a;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 1.2em;
+}
+#outro {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
+#btn {
+    padding: .75em 2em .75em 2em;
+    color: #1b7f69;
+    margin: 1.4em 0 0;
+    background: #45b29a;
+    text-decoration: none;
+    border: 0;
+    font-size: 1.1em;
 }
