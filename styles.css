@@ -7,6 +7,7 @@
 }
 .intro {
     color: #45b29a;
+    
 }
 #h1 {
     font-family: 'Rouge Script', cursive;
@@ -17,14 +18,17 @@
 }
 #landscape {
     width: 100%;
-    padding-top: 40px;
+    padding-top: 10px;
+    height: 300px;
 }
-
+#bayyinah {
+    color: #45b29a;
+}
 #button-list {
     display: flex;
     list-style: none;
     padding-top: 15px;
-    padding-bottom: 35px;
+    padding-bottom: 15px;
     padding-left: 0;
 }
 #projects {
@@ -63,8 +67,8 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&display=swap');
 #code {
-    height: 100px;
-    padding-right: 25vw;
+    height: 150px;
+    width: 50%;
 }
 #vue {
     height: 100px;
@@ -79,16 +83,18 @@
     font-family: 'Darker Grotesque', sans-serif; 
 }
 #front {
-    color: #45b29a;
+    font-size: 2em;
+    color: #1e836c;
     font-family: 'Darker Grotesque', sans-serif;
 }
 #back {
-    color: #45b29a;
+    font-size: 2em;
+    color: #1e836c;
     font-family: 'Darker Grotesque', sans-serif;
 }
 #backend {
-    height: 100px;
-    padding-right: 25vw;
+    height: 150px;
+    width: 40%;
 }
 #python {
     height: 100px;
@@ -144,4 +150,169 @@
 }
 #p-tag {
     color: #45b29a;
+    font-weight: 400;
+}
+@media only screen and (min-width:460px) {
+    #graduation {
+        width: 40%;
+    }
+}
+@media only screen and (min-width:560px) {
+    #graduation {
+        width: 30%;
+    }
+}
+@media only screen and (min-width:730px) {
+    #graduation {
+        width: 20%;
+    }
+    #landscape{
+        width: 95%;
+    }
+    #code{
+        width: 45%;
+    }
+    #backend{
+        width: 35%;
+    }
+    #nur{
+        width: 70%;
+    }
+    #dj{
+        width: 85%;
+    }
+    #ball{
+        width: 65%;
+    }
+}
+@media only screen and (min-width:1000px) {
+    #graduation {
+        width: 15%;
+    }
+}
+#skills{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#third-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-three{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#fourth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-four{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#fifth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-five{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#sixth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-six{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center; 
+}
+#carti{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;  
+}
+#uzi {
+    height: 150px;
+    width: 40%;
+}
+#section-five{
+    text-align: center;
+}
+#pop{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#poppy{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#tyler{
+    height: 250px;
+    width: 90%; 
+}
+#nur {
+    height: 300px;
+    width: 80%; 
+}
+#mk {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#section-six{
+    text-align: center;
+}
+#section-seven{
+    text-align: center;
+}
+#section-eight{
+    text-align: center;
+}
+#dj{
+    height: 300px;
+    width: 90%;  
+}
+#ball{
+    height: 300px;
+    width: 90%;  
 }
