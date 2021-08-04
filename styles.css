@@ -68,7 +68,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&display=swap');
 #code {
     height: 150px;
-    width: 50%;
+    width: 170px;
 }
 #vue {
     height: 100px;
@@ -94,7 +94,7 @@
 }
 #backend {
     height: 150px;
-    width: 40%;
+    width: 150px;
 }
 #python {
     height: 100px;
@@ -152,6 +152,25 @@
     color: #45b29a;
     font-weight: 400;
 }
+@media only screen and (min-width:618px) {
+    #tyler {
+        width: 60%;
+    }
+}
+@media only screen and (min-width:300px) {
+    #tyler {
+        width: 200px;
+    }
+    #nur {
+        width: 200px;
+    }
+    #ball {
+        width: 200px;
+    }
+    #dj {
+        width: 60%;
+    }
+}
 @media only screen and (min-width:460px) {
     #graduation {
         width: 40%;
@@ -167,28 +186,36 @@
         width: 20%;
     }
     #landscape{
-        width: 95%;
+        width: 80%;
     }
-    #code{
-        width: 45%;
-    }
-    #backend{
-        width: 35%;
+   
+    
+    #uzi{
+        width: 200px;
     }
     #nur{
-        width: 70%;
+        width: 40%;
+    }
+    #tyler{
+        width: 300px;
     }
     #dj{
-        width: 85%;
+        width: 40%;
     }
     #ball{
-        width: 65%;
+        width: 20%;
     }
 }
 @media only screen and (min-width:1000px) {
     #graduation {
         width: 15%;
     }
+    #landscape{
+        width: 40%;
+    }
+    
+    
+    
 }
 #skills{
     font-size: 2em;
@@ -262,7 +289,7 @@
 }
 #uzi {
     height: 150px;
-    width: 40%;
+    
 }
 #section-five{
     text-align: center;
@@ -283,13 +310,10 @@
     color: #545454;
     text-align: center;
 }
-#tyler{
-    height: 250px;
-    width: 90%; 
-}
+
 #nur {
     height: 300px;
-    width: 80%; 
+    width: 270px; 
 }
 #mk {
     padding-right: 10px;
@@ -310,9 +334,9 @@
 }
 #dj{
     height: 300px;
-    width: 90%;  
+    width: 270px;  
 }
 #ball{
     height: 300px;
-    width: 90%;  
+    width: 260px;  
 }
