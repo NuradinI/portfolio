@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: #1e836c;
+}
+div{
+    text-align: center;
+}
+#divone {
+    line-height: 1em;
+}
+#one {
+    max-width:100%;
+    height: auto;
+}
+#two {
+    max-width:100%;
+    height: auto;
+    margin-top: 4vh;
+}
+p {
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+}
+#three {
+    max-width:100%;
+    height: auto;
+    margin-top: 4vh; 
+}

@@ -340,3 +340,22 @@
     height: 300px;
     width: 260px;  
 }
+#news {
+    text-decoration: none;
+    color: #45b29a;
+    padding-left: 6px;
+}
+.tag {
+    text-decoration: none;
+    color: #45b29a;
+    padding-left: 60px;
+}
+@media only screen and (max-width:1148px) {
+    .tag {
+        
+    }
+    
+    
+    
+    
+}
